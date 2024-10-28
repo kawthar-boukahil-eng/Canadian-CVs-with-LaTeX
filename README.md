@@ -1,7 +1,7 @@
 # Canadian CVs with LaTeX
 
 This repository demonstrates the creation of Canadian CVs using LaTeX, tailored for professionals in different fields such as software engineering, healthcare, and academia. These CVs are structured following Canadian formatting guidelines and can easily be customized for various job applications.
-
+![can](https://github.com/kawthar-boukahil-eng/Canadian-CVs-with-LaTeX/blob/main/canadien%20cv.png)
 ## Why Use LaTeX for CVs?
 LaTeX is a powerful tool for creating high-quality, precisely formatted documents. It is widely used in academia and increasingly in professional settings for:
 - Consistent and professional layout.
